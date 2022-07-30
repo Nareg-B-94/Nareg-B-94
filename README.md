@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nareg-B-94
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning alot like for ex. HTML CSS JS TYPESCRIPT  / Bootstrap & Material Design / Angular / API's ... like the usual normal stuff for every front-end Developer :D  
+- 🌱 I’m currently learning alot like for ex. HTML CSS JS TYPESCRIPT  / Bootstrap & Material Design / Angular / Firebase / API's ... like the usual normal stuff for every front-end Developer :D  
 - 💞️ I’m looking to collaborate on lot of cool Projects :) 
 - 📫 How to reach me? email: naregb94@gmail.com
 
